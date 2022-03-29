@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# Things I want to learn.
+
+- Azure
+- Git
+- GitHub
+- Terraform
+- Ansible
+- Python
