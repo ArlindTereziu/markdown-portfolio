@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# **Things I want to learn.**
+
+- _Azure_
+- _Git_
+- GitHub
+- Terraform
+- Ansible
+- Python
