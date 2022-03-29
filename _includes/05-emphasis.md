@@ -4,5 +4,5 @@
 - _Git_
 - GitHub
 - Terraform
-- Ansible
+- **Ansible**
 - Python
